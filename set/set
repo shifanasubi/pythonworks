@@ -1,0 +1,10 @@
+name={"hari","subi","shifana"}
+print(name)
+#empty set 
+s=set()
+
+
+#duplicates not allowed
+#elements are unordered
+#cannot fetch a object using index position in the set object
+#mutable:we can add and remove the elements into the set 
